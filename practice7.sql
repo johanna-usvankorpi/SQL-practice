@@ -1,0 +1,1 @@
+DELETE FROM new_schema2.user_details WHERE user_id IN ('4', '5')
