@@ -1,0 +1,985 @@
+CountryCode,name,language
+ABW,Aruba,Dutch
+ABW,Aruba,English
+ABW,Aruba,Papiamento
+ABW,Aruba,Spanish
+AFG,Afghanistan,Balochi
+AFG,Afghanistan,Dari
+AFG,Afghanistan,Pashto
+AFG,Afghanistan,Turkmenian
+AFG,Afghanistan,Uzbek
+AGO,Angola,Ambo
+AGO,Angola,Chokwe
+AGO,Angola,Kongo
+AGO,Angola,Luchazi
+AGO,Angola,Luimbe-nganguela
+AGO,Angola,Luvale
+AGO,Angola,Mbundu
+AGO,Angola,Nyaneka-nkhumbi
+AGO,Angola,Ovimbundu
+AIA,Anguilla,English
+ALB,Albania,Albaniana
+ALB,Albania,Greek
+ALB,Albania,Macedonian
+AND,Andorra,Catalan
+AND,Andorra,French
+AND,Andorra,Portuguese
+AND,Andorra,Spanish
+ANT,"Netherlands Antilles",Dutch
+ANT,"Netherlands Antilles",English
+ANT,"Netherlands Antilles",Papiamento
+ARE,"United Arab Emirates",Arabic
+ARE,"United Arab Emirates",Hindi
+ARG,Argentina,"Indian Languages"
+ARG,Argentina,Italian
+ARG,Argentina,Spanish
+ARM,Armenia,Armenian
+ARM,Armenia,Azerbaijani
+ASM,"American Samoa",English
+ASM,"American Samoa",Samoan
+ASM,"American Samoa",Tongan
+ATG,"Antigua and Barbuda","Creole English"
+ATG,"Antigua and Barbuda",English
+AUS,Australia,Arabic
+AUS,Australia,"Canton Chinese"
+AUS,Australia,English
+AUS,Australia,German
+AUS,Australia,Greek
+AUS,Australia,Italian
+AUS,Australia,Serbo-Croatian
+AUS,Australia,Vietnamese
+AUT,Austria,Czech
+AUT,Austria,German
+AUT,Austria,Hungarian
+AUT,Austria,Polish
+AUT,Austria,Romanian
+AUT,Austria,Serbo-Croatian
+AUT,Austria,Slovene
+AUT,Austria,Turkish
+AZE,Azerbaijan,Armenian
+AZE,Azerbaijan,Azerbaijani
+AZE,Azerbaijan,Lezgian
+AZE,Azerbaijan,Russian
+BDI,Burundi,French
+BDI,Burundi,Kirundi
+BDI,Burundi,Swahili
+BEL,Belgium,Arabic
+BEL,Belgium,Dutch
+BEL,Belgium,French
+BEL,Belgium,German
+BEL,Belgium,Italian
+BEL,Belgium,Turkish
+BEN,Benin,Adja
+BEN,Benin,Aizo
+BEN,Benin,Bariba
+BEN,Benin,Fon
+BEN,Benin,Ful
+BEN,Benin,Joruba
+BEN,Benin,Somba
+BFA,"Burkina Faso",Busansi
+BFA,"Burkina Faso",Dagara
+BFA,"Burkina Faso",Dyula
+BFA,"Burkina Faso",Ful
+BFA,"Burkina Faso",Gurma
+BFA,"Burkina Faso",Mossi
+BGD,Bangladesh,Bengali
+BGD,Bangladesh,Chakma
+BGD,Bangladesh,Garo
+BGD,Bangladesh,Khasi
+BGD,Bangladesh,Marma
+BGD,Bangladesh,Santhali
+BGD,Bangladesh,Tripuri
+BGR,Bulgaria,Bulgariana
+BGR,Bulgaria,Macedonian
+BGR,Bulgaria,Romani
+BGR,Bulgaria,Turkish
+BHR,Bahrain,Arabic
+BHR,Bahrain,English
+BHS,Bahamas,"Creole English"
+BHS,Bahamas,"Creole French"
+BIH,"Bosnia and Herzegovina",Serbo-Croatian
+BLR,Belarus,Belorussian
+BLR,Belarus,Polish
+BLR,Belarus,Russian
+BLR,Belarus,Ukrainian
+BLZ,Belize,English
+BLZ,Belize,Garifuna
+BLZ,Belize,"Maya Languages"
+BLZ,Belize,Spanish
+BMU,Bermuda,English
+BOL,Bolivia,AimarÃ¡
+BOL,Bolivia,GuaranÃ­
+BOL,Bolivia,KetÂšua
+BOL,Bolivia,Spanish
+BRA,Brazil,German
+BRA,Brazil,"Indian Languages"
+BRA,Brazil,Italian
+BRA,Brazil,Japanese
+BRA,Brazil,Portuguese
+BRB,Barbados,Bajan
+BRB,Barbados,English
+BRN,Brunei,Chinese
+BRN,Brunei,English
+BRN,Brunei,Malay
+BRN,Brunei,Malay-English
+BTN,Bhutan,Asami
+BTN,Bhutan,Dzongkha
+BTN,Bhutan,Nepali
+BWA,Botswana,Khoekhoe
+BWA,Botswana,Ndebele
+BWA,Botswana,San
+BWA,Botswana,Shona
+BWA,Botswana,Tswana
+CAF,"Central African Republic",Banda
+CAF,"Central African Republic",Gbaya
+CAF,"Central African Republic",Mandjia
+CAF,"Central African Republic",Mbum
+CAF,"Central African Republic",Ngbaka
+CAF,"Central African Republic",Sara
+CAN,Canada,Chinese
+CAN,Canada,Dutch
+CAN,Canada,English
+CAN,Canada,"Eskimo Languages"
+CAN,Canada,French
+CAN,Canada,German
+CAN,Canada,Italian
+CAN,Canada,Polish
+CAN,Canada,Portuguese
+CAN,Canada,Punjabi
+CAN,Canada,Spanish
+CAN,Canada,Ukrainian
+CCK,"Cocos (Keeling) Islands",English
+CCK,"Cocos (Keeling) Islands",Malay
+CHE,Switzerland,French
+CHE,Switzerland,German
+CHE,Switzerland,Italian
+CHE,Switzerland,Romansh
+CHL,Chile,AimarÃ¡
+CHL,Chile,Araucan
+CHL,Chile,"Rapa nui"
+CHL,Chile,Spanish
+CHN,China,Chinese
+CHN,China,Dong
+CHN,China,Hui
+CHN,China,MantÂšu
+CHN,China,Miao
+CHN,China,Mongolian
+CHN,China,Puyi
+CHN,China,Tibetan
+CHN,China,Tujia
+CHN,China,Uighur
+CHN,China,Yi
+CHN,China,Zhuang
+CIV,"CÃ´te dÂ’Ivoire",Akan
+CIV,"CÃ´te dÂ’Ivoire",Gur
+CIV,"CÃ´te dÂ’Ivoire",Kru
+CIV,"CÃ´te dÂ’Ivoire",Malinke
+CIV,"CÃ´te dÂ’Ivoire",[South]Mande
+CMR,Cameroon,Bamileke-bamum
+CMR,Cameroon,Duala
+CMR,Cameroon,Fang
+CMR,Cameroon,Ful
+CMR,Cameroon,Maka
+CMR,Cameroon,Mandara
+CMR,Cameroon,Masana
+CMR,Cameroon,Tikar
+COD,"Congo, The Democratic Republic of the",Boa
+COD,"Congo, The Democratic Republic of the",Chokwe
+COD,"Congo, The Democratic Republic of the",Kongo
+COD,"Congo, The Democratic Republic of the",Luba
+COD,"Congo, The Democratic Republic of the",Mongo
+COD,"Congo, The Democratic Republic of the","Ngala and Bangi"
+COD,"Congo, The Democratic Republic of the",Rundi
+COD,"Congo, The Democratic Republic of the",Rwanda
+COD,"Congo, The Democratic Republic of the",Teke
+COD,"Congo, The Democratic Republic of the",Zande
+COG,Congo,Kongo
+COG,Congo,Mbete
+COG,Congo,Mboshi
+COG,Congo,Punu
+COG,Congo,Sango
+COG,Congo,Teke
+COK,"Cook Islands",English
+COK,"Cook Islands",Maori
+COL,Colombia,Arawakan
+COL,Colombia,Caribbean
+COL,Colombia,Chibcha
+COL,Colombia,"Creole English"
+COL,Colombia,Spanish
+COM,Comoros,Comorian
+COM,Comoros,Comorian-Arabic
+COM,Comoros,Comorian-French
+COM,Comoros,Comorian-madagassi
+COM,Comoros,Comorian-Swahili
+CPV,"Cape Verde",Crioulo
+CPV,"Cape Verde",Portuguese
+CRI,"Costa Rica",Chibcha
+CRI,"Costa Rica",Chinese
+CRI,"Costa Rica","Creole English"
+CRI,"Costa Rica",Spanish
+CUB,Cuba,Spanish
+CXR,"Christmas Island",Chinese
+CXR,"Christmas Island",English
+CYM,"Cayman Islands",English
+CYP,Cyprus,Greek
+CYP,Cyprus,Turkish
+CZE,"Czech Republic",Czech
+CZE,"Czech Republic",German
+CZE,"Czech Republic",Hungarian
+CZE,"Czech Republic",Moravian
+CZE,"Czech Republic",Polish
+CZE,"Czech Republic",Romani
+CZE,"Czech Republic",Silesiana
+CZE,"Czech Republic",Slovak
+DEU,Germany,German
+DEU,Germany,Greek
+DEU,Germany,Italian
+DEU,Germany,Polish
+DEU,Germany,"Southern Slavic Languages"
+DEU,Germany,Turkish
+DJI,Djibouti,Afar
+DJI,Djibouti,Arabic
+DJI,Djibouti,Somali
+DMA,Dominica,"Creole English"
+DMA,Dominica,"Creole French"
+DNK,Denmark,Arabic
+DNK,Denmark,Danish
+DNK,Denmark,English
+DNK,Denmark,German
+DNK,Denmark,Norwegian
+DNK,Denmark,Swedish
+DNK,Denmark,Turkish
+DOM,"Dominican Republic","Creole French"
+DOM,"Dominican Republic",Spanish
+DZA,Algeria,Arabic
+DZA,Algeria,Berberi
+ECU,Ecuador,KetÂšua
+ECU,Ecuador,Spanish
+EGY,Egypt,Arabic
+EGY,Egypt,Sinaberberi
+ERI,Eritrea,Afar
+ERI,Eritrea,Bilin
+ERI,Eritrea,Hadareb
+ERI,Eritrea,Saho
+ERI,Eritrea,Tigre
+ERI,Eritrea,Tigrinja
+ESH,"Western Sahara",Arabic
+ESP,Spain,Basque
+ESP,Spain,Catalan
+ESP,Spain,Galecian
+ESP,Spain,Spanish
+EST,Estonia,Belorussian
+EST,Estonia,Estonian
+EST,Estonia,Finnish
+EST,Estonia,Russian
+EST,Estonia,Ukrainian
+ETH,Ethiopia,Amhara
+ETH,Ethiopia,Gurage
+ETH,Ethiopia,Oromo
+ETH,Ethiopia,Sidamo
+ETH,Ethiopia,Somali
+ETH,Ethiopia,Tigrinja
+ETH,Ethiopia,Walaita
+FIN,Finland,Estonian
+FIN,Finland,Finnish
+FIN,Finland,Russian
+FIN,Finland,Saame
+FIN,Finland,Swedish
+FJI,"Fiji Islands",Fijian
+FJI,"Fiji Islands",Hindi
+FLK,"Falkland Islands",English
+FRA,France,Arabic
+FRA,France,French
+FRA,France,Italian
+FRA,France,Portuguese
+FRA,France,Spanish
+FRA,France,Turkish
+FRO,"Faroe Islands",Danish
+FRO,"Faroe Islands",Faroese
+FSM,"Micronesia, Federated States of",Kosrean
+FSM,"Micronesia, Federated States of",Mortlock
+FSM,"Micronesia, Federated States of",Pohnpei
+FSM,"Micronesia, Federated States of",Trukese
+FSM,"Micronesia, Federated States of",Wolea
+FSM,"Micronesia, Federated States of",Yap
+GAB,Gabon,Fang
+GAB,Gabon,Mbete
+GAB,Gabon,Mpongwe
+GAB,Gabon,Punu-sira-nzebi
+GBR,"United Kingdom",English
+GBR,"United Kingdom",Gaeli
+GBR,"United Kingdom",Kymri
+GEO,Georgia,Abhyasi
+GEO,Georgia,Armenian
+GEO,Georgia,Azerbaijani
+GEO,Georgia,Georgiana
+GEO,Georgia,Osseetti
+GEO,Georgia,Russian
+GHA,Ghana,Akan
+GHA,Ghana,Ewe
+GHA,Ghana,Ga-adangme
+GHA,Ghana,Gurma
+GHA,Ghana,Joruba
+GHA,Ghana,Mossi
+GIB,Gibraltar,Arabic
+GIB,Gibraltar,English
+GIN,Guinea,Ful
+GIN,Guinea,Kissi
+GIN,Guinea,Kpelle
+GIN,Guinea,Loma
+GIN,Guinea,Malinke
+GIN,Guinea,Susu
+GIN,Guinea,Yalunka
+GLP,Guadeloupe,"Creole French"
+GLP,Guadeloupe,French
+GMB,Gambia,Diola
+GMB,Gambia,Ful
+GMB,Gambia,Malinke
+GMB,Gambia,Soninke
+GMB,Gambia,Wolof
+GNB,Guinea-Bissau,Balante
+GNB,Guinea-Bissau,Crioulo
+GNB,Guinea-Bissau,Ful
+GNB,Guinea-Bissau,Malinke
+GNB,Guinea-Bissau,Mandyako
+GNB,Guinea-Bissau,Portuguese
+GNQ,"Equatorial Guinea",Bubi
+GNQ,"Equatorial Guinea",Fang
+GRC,Greece,Greek
+GRC,Greece,Turkish
+GRD,Grenada,"Creole English"
+GRL,Greenland,Danish
+GRL,Greenland,Greenlandic
+GTM,Guatemala,Cakchiquel
+GTM,Guatemala,KekchÃ­
+GTM,Guatemala,Mam
+GTM,Guatemala,QuichÃ©
+GTM,Guatemala,Spanish
+GUF,"French Guiana","Creole French"
+GUF,"French Guiana","Indian Languages"
+GUM,Guam,Chamorro
+GUM,Guam,English
+GUM,Guam,Japanese
+GUM,Guam,Korean
+GUM,Guam,"Philippene Languages"
+GUY,Guyana,Arawakan
+GUY,Guyana,Caribbean
+GUY,Guyana,"Creole English"
+HKG,"Hong Kong","Canton Chinese"
+HKG,"Hong Kong","Chiu chau"
+HKG,"Hong Kong",English
+HKG,"Hong Kong",Fukien
+HKG,"Hong Kong",Hakka
+HND,Honduras,"Creole English"
+HND,Honduras,Garifuna
+HND,Honduras,Miskito
+HND,Honduras,Spanish
+HRV,Croatia,Serbo-Croatian
+HRV,Croatia,Slovene
+HTI,Haiti,French
+HTI,Haiti,"Haiti Creole"
+HUN,Hungary,German
+HUN,Hungary,Hungarian
+HUN,Hungary,Romani
+HUN,Hungary,Romanian
+HUN,Hungary,Serbo-Croatian
+HUN,Hungary,Slovak
+IDN,Indonesia,Bali
+IDN,Indonesia,Banja
+IDN,Indonesia,Batakki
+IDN,Indonesia,Bugi
+IDN,Indonesia,Javanese
+IDN,Indonesia,Madura
+IDN,Indonesia,Malay
+IDN,Indonesia,Minangkabau
+IDN,Indonesia,Sunda
+IND,India,Asami
+IND,India,Bengali
+IND,India,Gujarati
+IND,India,Hindi
+IND,India,Kannada
+IND,India,Malajalam
+IND,India,Marathi
+IND,India,Orija
+IND,India,Punjabi
+IND,India,Tamil
+IND,India,Telugu
+IND,India,Urdu
+IRL,Ireland,English
+IRL,Ireland,Irish
+IRN,Iran,Arabic
+IRN,Iran,Azerbaijani
+IRN,Iran,Bakhtyari
+IRN,Iran,Balochi
+IRN,Iran,Gilaki
+IRN,Iran,Kurdish
+IRN,Iran,Luri
+IRN,Iran,Mazandarani
+IRN,Iran,Persian
+IRN,Iran,Turkmenian
+IRQ,Iraq,Arabic
+IRQ,Iraq,Assyrian
+IRQ,Iraq,Azerbaijani
+IRQ,Iraq,Kurdish
+IRQ,Iraq,Persian
+ISL,Iceland,English
+ISL,Iceland,Icelandic
+ISR,Israel,Arabic
+ISR,Israel,Hebrew
+ISR,Israel,Russian
+ITA,Italy,Albaniana
+ITA,Italy,French
+ITA,Italy,Friuli
+ITA,Italy,German
+ITA,Italy,Italian
+ITA,Italy,Romani
+ITA,Italy,Sardinian
+ITA,Italy,Slovene
+JAM,Jamaica,"Creole English"
+JAM,Jamaica,Hindi
+JOR,Jordan,Arabic
+JOR,Jordan,Armenian
+JOR,Jordan,Circassian
+JPN,Japan,Ainu
+JPN,Japan,Chinese
+JPN,Japan,English
+JPN,Japan,Japanese
+JPN,Japan,Korean
+JPN,Japan,"Philippene Languages"
+KAZ,Kazakstan,German
+KAZ,Kazakstan,Kazakh
+KAZ,Kazakstan,Russian
+KAZ,Kazakstan,Tatar
+KAZ,Kazakstan,Ukrainian
+KAZ,Kazakstan,Uzbek
+KEN,Kenya,Gusii
+KEN,Kenya,Kalenjin
+KEN,Kenya,Kamba
+KEN,Kenya,Kikuyu
+KEN,Kenya,Luhya
+KEN,Kenya,Luo
+KEN,Kenya,Masai
+KEN,Kenya,Meru
+KEN,Kenya,Nyika
+KEN,Kenya,Turkana
+KGZ,Kyrgyzstan,Kazakh
+KGZ,Kyrgyzstan,Kirgiz
+KGZ,Kyrgyzstan,Russian
+KGZ,Kyrgyzstan,Tadzhik
+KGZ,Kyrgyzstan,Tatar
+KGZ,Kyrgyzstan,Ukrainian
+KGZ,Kyrgyzstan,Uzbek
+KHM,Cambodia,Chinese
+KHM,Cambodia,Khmer
+KHM,Cambodia,TÂšam
+KHM,Cambodia,Vietnamese
+KIR,Kiribati,Kiribati
+KIR,Kiribati,Tuvalu
+KNA,"Saint Kitts and Nevis","Creole English"
+KNA,"Saint Kitts and Nevis",English
+KOR,"South Korea",Chinese
+KOR,"South Korea",Korean
+KWT,Kuwait,Arabic
+KWT,Kuwait,English
+LAO,Laos,Lao
+LAO,Laos,Lao-Soung
+LAO,Laos,Mon-khmer
+LAO,Laos,Thai
+LBN,Lebanon,Arabic
+LBN,Lebanon,Armenian
+LBN,Lebanon,French
+LBR,Liberia,Bassa
+LBR,Liberia,Gio
+LBR,Liberia,Grebo
+LBR,Liberia,Kpelle
+LBR,Liberia,Kru
+LBR,Liberia,Loma
+LBR,Liberia,Malinke
+LBR,Liberia,Mano
+LBY,"Libyan Arab Jamahiriya",Arabic
+LBY,"Libyan Arab Jamahiriya",Berberi
+LCA,"Saint Lucia","Creole French"
+LCA,"Saint Lucia",English
+LIE,Liechtenstein,German
+LIE,Liechtenstein,Italian
+LIE,Liechtenstein,Turkish
+LKA,"Sri Lanka","Mixed Languages"
+LKA,"Sri Lanka",Singali
+LKA,"Sri Lanka",Tamil
+LSO,Lesotho,English
+LSO,Lesotho,Sotho
+LSO,Lesotho,Zulu
+LTU,Lithuania,Belorussian
+LTU,Lithuania,Lithuanian
+LTU,Lithuania,Polish
+LTU,Lithuania,Russian
+LTU,Lithuania,Ukrainian
+LUX,Luxembourg,French
+LUX,Luxembourg,German
+LUX,Luxembourg,Italian
+LUX,Luxembourg,Luxembourgish
+LUX,Luxembourg,Portuguese
+LVA,Latvia,Belorussian
+LVA,Latvia,Latvian
+LVA,Latvia,Lithuanian
+LVA,Latvia,Polish
+LVA,Latvia,Russian
+LVA,Latvia,Ukrainian
+MAC,Macao,"Canton Chinese"
+MAC,Macao,English
+MAC,Macao,"Mandarin Chinese"
+MAC,Macao,Portuguese
+MAR,Morocco,Arabic
+MAR,Morocco,Berberi
+MCO,Monaco,English
+MCO,Monaco,French
+MCO,Monaco,Italian
+MCO,Monaco,Monegasque
+MDA,Moldova,Bulgariana
+MDA,Moldova,Gagauzi
+MDA,Moldova,Romanian
+MDA,Moldova,Russian
+MDA,Moldova,Ukrainian
+MDG,Madagascar,French
+MDG,Madagascar,Malagasy
+MDV,Maldives,Dhivehi
+MDV,Maldives,English
+MEX,Mexico,Mixtec
+MEX,Mexico,NÃ¡huatl
+MEX,Mexico,OtomÃ­
+MEX,Mexico,Spanish
+MEX,Mexico,Yucatec
+MEX,Mexico,Zapotec
+MHL,"Marshall Islands",English
+MHL,"Marshall Islands",Marshallese
+MKD,Macedonia,Albaniana
+MKD,Macedonia,Macedonian
+MKD,Macedonia,Romani
+MKD,Macedonia,Serbo-Croatian
+MKD,Macedonia,Turkish
+MLI,Mali,Bambara
+MLI,Mali,Ful
+MLI,Mali,"Senufo and Minianka"
+MLI,Mali,Songhai
+MLI,Mali,Soninke
+MLI,Mali,Tamashek
+MLT,Malta,English
+MLT,Malta,Maltese
+MMR,Myanmar,Burmese
+MMR,Myanmar,Chin
+MMR,Myanmar,Kachin
+MMR,Myanmar,Karen
+MMR,Myanmar,Kayah
+MMR,Myanmar,Mon
+MMR,Myanmar,Rakhine
+MMR,Myanmar,Shan
+MNG,Mongolia,Bajad
+MNG,Mongolia,Buryat
+MNG,Mongolia,Dariganga
+MNG,Mongolia,Dorbet
+MNG,Mongolia,Kazakh
+MNG,Mongolia,Mongolian
+MNP,"Northern Mariana Islands",Carolinian
+MNP,"Northern Mariana Islands",Chamorro
+MNP,"Northern Mariana Islands",Chinese
+MNP,"Northern Mariana Islands",English
+MNP,"Northern Mariana Islands",Korean
+MNP,"Northern Mariana Islands","Philippene Languages"
+MOZ,Mozambique,Chuabo
+MOZ,Mozambique,Lomwe
+MOZ,Mozambique,Makua
+MOZ,Mozambique,Marendje
+MOZ,Mozambique,Nyanja
+MOZ,Mozambique,Ronga
+MOZ,Mozambique,Sena
+MOZ,Mozambique,Shona
+MOZ,Mozambique,Tsonga
+MOZ,Mozambique,Tswa
+MRT,Mauritania,Ful
+MRT,Mauritania,Hassaniya
+MRT,Mauritania,Soninke
+MRT,Mauritania,Tukulor
+MRT,Mauritania,Wolof
+MRT,Mauritania,Zenaga
+MSR,Montserrat,English
+MTQ,Martinique,"Creole French"
+MTQ,Martinique,French
+MUS,Mauritius,Bhojpuri
+MUS,Mauritius,"Creole French"
+MUS,Mauritius,French
+MUS,Mauritius,Hindi
+MUS,Mauritius,Marathi
+MUS,Mauritius,Tamil
+MWI,Malawi,Chichewa
+MWI,Malawi,Lomwe
+MWI,Malawi,Ngoni
+MWI,Malawi,Yao
+MYS,Malaysia,Chinese
+MYS,Malaysia,Dusun
+MYS,Malaysia,English
+MYS,Malaysia,Iban
+MYS,Malaysia,Malay
+MYS,Malaysia,Tamil
+MYT,Mayotte,French
+MYT,Mayotte,MahorÃ©
+MYT,Mayotte,Malagasy
+NAM,Namibia,Afrikaans
+NAM,Namibia,Caprivi
+NAM,Namibia,German
+NAM,Namibia,Herero
+NAM,Namibia,Kavango
+NAM,Namibia,Nama
+NAM,Namibia,Ovambo
+NAM,Namibia,San
+NCL,"New Caledonia",French
+NCL,"New Caledonia","Malenasian Languages"
+NCL,"New Caledonia","Polynesian Languages"
+NER,Niger,Ful
+NER,Niger,Hausa
+NER,Niger,Kanuri
+NER,Niger,Songhai-zerma
+NER,Niger,Tamashek
+NFK,"Norfolk Island",English
+NGA,Nigeria,Bura
+NGA,Nigeria,Edo
+NGA,Nigeria,Ful
+NGA,Nigeria,Hausa
+NGA,Nigeria,Ibibio
+NGA,Nigeria,Ibo
+NGA,Nigeria,Ijo
+NGA,Nigeria,Joruba
+NGA,Nigeria,Kanuri
+NGA,Nigeria,Tiv
+NIC,Nicaragua,"Creole English"
+NIC,Nicaragua,Miskito
+NIC,Nicaragua,Spanish
+NIC,Nicaragua,Sumo
+NIU,Niue,English
+NIU,Niue,Niue
+NLD,Netherlands,Arabic
+NLD,Netherlands,Dutch
+NLD,Netherlands,Fries
+NLD,Netherlands,Turkish
+NOR,Norway,Danish
+NOR,Norway,English
+NOR,Norway,Norwegian
+NOR,Norway,Saame
+NOR,Norway,Swedish
+NPL,Nepal,Bhojpuri
+NPL,Nepal,Hindi
+NPL,Nepal,Maithili
+NPL,Nepal,Nepali
+NPL,Nepal,Newari
+NPL,Nepal,Tamang
+NPL,Nepal,Tharu
+NRU,Nauru,Chinese
+NRU,Nauru,English
+NRU,Nauru,Kiribati
+NRU,Nauru,Nauru
+NRU,Nauru,Tuvalu
+NZL,"New Zealand",English
+NZL,"New Zealand",Maori
+OMN,Oman,Arabic
+OMN,Oman,Balochi
+PAK,Pakistan,Balochi
+PAK,Pakistan,Brahui
+PAK,Pakistan,Hindko
+PAK,Pakistan,Pashto
+PAK,Pakistan,Punjabi
+PAK,Pakistan,Saraiki
+PAK,Pakistan,Sindhi
+PAK,Pakistan,Urdu
+PAN,Panama,Arabic
+PAN,Panama,"Creole English"
+PAN,Panama,Cuna
+PAN,Panama,Embera
+PAN,Panama,GuaymÃ­
+PAN,Panama,Spanish
+PCN,Pitcairn,Pitcairnese
+PER,Peru,AimarÃ¡
+PER,Peru,KetÂšua
+PER,Peru,Spanish
+PHL,Philippines,Bicol
+PHL,Philippines,Cebuano
+PHL,Philippines,Hiligaynon
+PHL,Philippines,Ilocano
+PHL,Philippines,Maguindanao
+PHL,Philippines,Maranao
+PHL,Philippines,Pampango
+PHL,Philippines,Pangasinan
+PHL,Philippines,Pilipino
+PHL,Philippines,Waray-waray
+PLW,Palau,Chinese
+PLW,Palau,English
+PLW,Palau,Palau
+PLW,Palau,"Philippene Languages"
+PNG,"Papua New Guinea","Malenasian Languages"
+PNG,"Papua New Guinea","Papuan Languages"
+POL,Poland,Belorussian
+POL,Poland,German
+POL,Poland,Polish
+POL,Poland,Ukrainian
+PRI,"Puerto Rico",English
+PRI,"Puerto Rico",Spanish
+PRK,"North Korea",Chinese
+PRK,"North Korea",Korean
+PRT,Portugal,Portuguese
+PRY,Paraguay,German
+PRY,Paraguay,GuaranÃ­
+PRY,Paraguay,Portuguese
+PRY,Paraguay,Spanish
+PSE,Palestine,Arabic
+PSE,Palestine,Hebrew
+PYF,"French Polynesia",Chinese
+PYF,"French Polynesia",French
+PYF,"French Polynesia",Tahitian
+QAT,Qatar,Arabic
+QAT,Qatar,Urdu
+REU,RÃ©union,Chinese
+REU,RÃ©union,Comorian
+REU,RÃ©union,"Creole French"
+REU,RÃ©union,Malagasy
+REU,RÃ©union,Tamil
+ROM,Romania,German
+ROM,Romania,Hungarian
+ROM,Romania,Romani
+ROM,Romania,Romanian
+ROM,Romania,Serbo-Croatian
+ROM,Romania,Ukrainian
+RUS,"Russian Federation",Avarian
+RUS,"Russian Federation",Bashkir
+RUS,"Russian Federation",Belorussian
+RUS,"Russian Federation",Chechen
+RUS,"Russian Federation",Chuvash
+RUS,"Russian Federation",Kazakh
+RUS,"Russian Federation",Mari
+RUS,"Russian Federation",Mordva
+RUS,"Russian Federation",Russian
+RUS,"Russian Federation",Tatar
+RUS,"Russian Federation",Udmur
+RUS,"Russian Federation",Ukrainian
+RWA,Rwanda,French
+RWA,Rwanda,Rwanda
+SAU,"Saudi Arabia",Arabic
+SDN,Sudan,Arabic
+SDN,Sudan,Bari
+SDN,Sudan,Beja
+SDN,Sudan,Chilluk
+SDN,Sudan,Dinka
+SDN,Sudan,Fur
+SDN,Sudan,Lotuko
+SDN,Sudan,"Nubian Languages"
+SDN,Sudan,Nuer
+SDN,Sudan,Zande
+SEN,Senegal,Diola
+SEN,Senegal,Ful
+SEN,Senegal,Malinke
+SEN,Senegal,Serer
+SEN,Senegal,Soninke
+SEN,Senegal,Wolof
+SGP,Singapore,Chinese
+SGP,Singapore,Malay
+SGP,Singapore,Tamil
+SHN,"Saint Helena",English
+SJM,"Svalbard and Jan Mayen",Norwegian
+SJM,"Svalbard and Jan Mayen",Russian
+SLB,"Solomon Islands","Malenasian Languages"
+SLB,"Solomon Islands","Papuan Languages"
+SLB,"Solomon Islands","Polynesian Languages"
+SLE,"Sierra Leone",Bullom-sherbro
+SLE,"Sierra Leone",Ful
+SLE,"Sierra Leone",Kono-vai
+SLE,"Sierra Leone",Kuranko
+SLE,"Sierra Leone",Limba
+SLE,"Sierra Leone",Mende
+SLE,"Sierra Leone",Temne
+SLE,"Sierra Leone",Yalunka
+SLV,"El Salvador",Nahua
+SLV,"El Salvador",Spanish
+SMR,"San Marino",Italian
+SOM,Somalia,Arabic
+SOM,Somalia,Somali
+SPM,"Saint Pierre and Miquelon",French
+STP,"Sao Tome and Principe",Crioulo
+STP,"Sao Tome and Principe",French
+SUR,Suriname,Hindi
+SUR,Suriname,Sranantonga
+SVK,Slovakia,"Czech and Moravian"
+SVK,Slovakia,Hungarian
+SVK,Slovakia,Romani
+SVK,Slovakia,Slovak
+SVK,Slovakia,"Ukrainian and Russian"
+SVN,Slovenia,Hungarian
+SVN,Slovenia,Serbo-Croatian
+SVN,Slovenia,Slovene
+SWE,Sweden,Arabic
+SWE,Sweden,Finnish
+SWE,Sweden,Norwegian
+SWE,Sweden,"Southern Slavic Languages"
+SWE,Sweden,Spanish
+SWE,Sweden,Swedish
+SWZ,Swaziland,Swazi
+SWZ,Swaziland,Zulu
+SYC,Seychelles,English
+SYC,Seychelles,French
+SYC,Seychelles,Seselwa
+SYR,Syria,Arabic
+SYR,Syria,Kurdish
+TCA,"Turks and Caicos Islands",English
+TCD,Chad,Arabic
+TCD,Chad,Gorane
+TCD,Chad,Hadjarai
+TCD,Chad,Kanem-bornu
+TCD,Chad,Mayo-kebbi
+TCD,Chad,Ouaddai
+TCD,Chad,Sara
+TCD,Chad,Tandjile
+TGO,Togo,Ane
+TGO,Togo,Ewe
+TGO,Togo,Gurma
+TGO,Togo,KabyÃ©
+TGO,Togo,Kotokoli
+TGO,Togo,Moba
+TGO,Togo,Naudemba
+TGO,Togo,Watyi
+THA,Thailand,Chinese
+THA,Thailand,Khmer
+THA,Thailand,Kuy
+THA,Thailand,Lao
+THA,Thailand,Malay
+THA,Thailand,Thai
+TJK,Tajikistan,Russian
+TJK,Tajikistan,Tadzhik
+TJK,Tajikistan,Uzbek
+TKL,Tokelau,English
+TKL,Tokelau,Tokelau
+TKM,Turkmenistan,Kazakh
+TKM,Turkmenistan,Russian
+TKM,Turkmenistan,Turkmenian
+TKM,Turkmenistan,Uzbek
+TMP,"East Timor",Portuguese
+TMP,"East Timor",Sunda
+TON,Tonga,English
+TON,Tonga,Tongan
+TTO,"Trinidad and Tobago","Creole English"
+TTO,"Trinidad and Tobago",English
+TTO,"Trinidad and Tobago",Hindi
+TUN,Tunisia,Arabic
+TUN,Tunisia,Arabic-French
+TUN,Tunisia,Arabic-French-English
+TUR,Turkey,Arabic
+TUR,Turkey,Kurdish
+TUR,Turkey,Turkish
+TUV,Tuvalu,English
+TUV,Tuvalu,Kiribati
+TUV,Tuvalu,Tuvalu
+TWN,Taiwan,Ami
+TWN,Taiwan,Atayal
+TWN,Taiwan,Hakka
+TWN,Taiwan,"Mandarin Chinese"
+TWN,Taiwan,Min
+TWN,Taiwan,Paiwan
+TZA,Tanzania,"Chaga and Pare"
+TZA,Tanzania,Gogo
+TZA,Tanzania,Ha
+TZA,Tanzania,Haya
+TZA,Tanzania,Hehet
+TZA,Tanzania,Luguru
+TZA,Tanzania,Makonde
+TZA,Tanzania,Nyakusa
+TZA,Tanzania,Nyamwesi
+TZA,Tanzania,Shambala
+TZA,Tanzania,Swahili
+UGA,Uganda,Acholi
+UGA,Uganda,Ganda
+UGA,Uganda,Gisu
+UGA,Uganda,Kiga
+UGA,Uganda,Lango
+UGA,Uganda,Lugbara
+UGA,Uganda,Nkole
+UGA,Uganda,Rwanda
+UGA,Uganda,Soga
+UGA,Uganda,Teso
+UKR,Ukraine,Belorussian
+UKR,Ukraine,Bulgariana
+UKR,Ukraine,Hungarian
+UKR,Ukraine,Polish
+UKR,Ukraine,Romanian
+UKR,Ukraine,Russian
+UKR,Ukraine,Ukrainian
+UMI,"United States Minor Outlying Islands",English
+URY,Uruguay,Spanish
+USA,"United States",Chinese
+USA,"United States",English
+USA,"United States",French
+USA,"United States",German
+USA,"United States",Italian
+USA,"United States",Japanese
+USA,"United States",Korean
+USA,"United States",Polish
+USA,"United States",Portuguese
+USA,"United States",Spanish
+USA,"United States",Tagalog
+USA,"United States",Vietnamese
+UZB,Uzbekistan,Karakalpak
+UZB,Uzbekistan,Kazakh
+UZB,Uzbekistan,Russian
+UZB,Uzbekistan,Tadzhik
+UZB,Uzbekistan,Tatar
+UZB,Uzbekistan,Uzbek
+VAT,"Holy See (Vatican City State)",Italian
+VCT,"Saint Vincent and the Grenadines","Creole English"
+VCT,"Saint Vincent and the Grenadines",English
+VEN,Venezuela,Goajiro
+VEN,Venezuela,Spanish
+VEN,Venezuela,Warrau
+VGB,"Virgin Islands, British",English
+VIR,"Virgin Islands, U.S.",English
+VIR,"Virgin Islands, U.S.",French
+VIR,"Virgin Islands, U.S.",Spanish
+VNM,Vietnam,Chinese
+VNM,Vietnam,Khmer
+VNM,Vietnam,Man
+VNM,Vietnam,Miao
+VNM,Vietnam,Muong
+VNM,Vietnam,Nung
+VNM,Vietnam,Thai
+VNM,Vietnam,Tho
+VNM,Vietnam,Vietnamese
+VUT,Vanuatu,Bislama
+VUT,Vanuatu,English
+VUT,Vanuatu,French
+WLF,"Wallis and Futuna",Futuna
+WLF,"Wallis and Futuna",Wallis
+WSM,Samoa,English
+WSM,Samoa,Samoan
+WSM,Samoa,Samoan-English
+YEM,Yemen,Arabic
+YEM,Yemen,Soqutri
+YUG,Yugoslavia,Albaniana
+YUG,Yugoslavia,Hungarian
+YUG,Yugoslavia,Macedonian
+YUG,Yugoslavia,Romani
+YUG,Yugoslavia,Serbo-Croatian
+YUG,Yugoslavia,Slovak
+ZAF,"South Africa",Afrikaans
+ZAF,"South Africa",English
+ZAF,"South Africa",Ndebele
+ZAF,"South Africa",Northsotho
+ZAF,"South Africa",Southsotho
+ZAF,"South Africa",Swazi
+ZAF,"South Africa",Tsonga
+ZAF,"South Africa",Tswana
+ZAF,"South Africa",Venda
+ZAF,"South Africa",Xhosa
+ZAF,"South Africa",Zulu
+ZMB,Zambia,Bemba
+ZMB,Zambia,Chewa
+ZMB,Zambia,Lozi
+ZMB,Zambia,Nsenga
+ZMB,Zambia,Nyanja
+ZMB,Zambia,Tongan
+ZWE,Zimbabwe,English
+ZWE,Zimbabwe,Ndebele
+ZWE,Zimbabwe,Nyanja
+ZWE,Zimbabwe,Shona
